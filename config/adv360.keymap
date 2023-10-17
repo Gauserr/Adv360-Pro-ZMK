@@ -79,10 +79,10 @@
 
         layer_Layer__4 {
             bindings = <
- &trans           &trans                &trans          &trans            &trans          &trans            &trans                                                  &trans     &trans             &trans           &trans                 &trans        &trans             &trans
- &trans  &kp EXCLAMATION                &kp AT       &kp POUND        &kp DOLLAR     &kp PERCENT            &trans                                                  &trans  &kp CARET      &kp AMPERSAND         &kp STAR               &kp PLUS     &kp MINUS             &trans
- &trans         &kp PIPE  &kp LEFT_PARENTHESIS  &kp LEFT_BRACE  &kp LEFT_BRACKET  &kp UNDERSCORE            &trans  &trans  &trans                  &trans  &trans  &trans  &kp EQUAL  &kp RIGHT_BRACKET  &kp RIGHT_BRACE  &kp RIGHT_PARENTHESIS     &kp COLON  &kp DOUBLE_QUOTES
- &trans           &trans                &trans       &kp GRAVE         &kp TILDE          &trans                            &trans                  &trans                     &trans           &kp BSLH    &kp LESS_THAN       &kp GREATER_THAN  &kp QUESTION             &trans
+ &trans  &kp EXCLAMATION                &kp AT        &kp HASH        &kp DOLLAR       &kp PRCNT            &trans                                                  &trans  &kp CARET           &kp AMPS         &kp STAR              &kp MINUS      &kp PLUS             &trans
+ &trans        &kp TILDE             &kp GRAVE          &trans            &trans          &trans            &trans                                                  &trans     &trans             &trans           &trans               &kp BSLH      &kp PIPE             &trans
+ &trans           &trans  &kp LEFT_PARENTHESIS  &kp LEFT_BRACE  &kp LEFT_BRACKET  &kp UNDERSCORE            &trans  &trans  &trans                  &trans  &trans  &trans  &kp EQUAL  &kp RIGHT_BRACKET  &kp RIGHT_BRACE  &kp RIGHT_PARENTHESIS     &kp COLON  &kp DOUBLE_QUOTES
+ &trans           &trans                &trans          &trans            &trans          &trans                            &trans                  &trans                     &trans             &trans    &kp LESS_THAN       &kp GREATER_THAN  &kp QUESTION             &trans
  &trans           &trans                &trans          &trans            &trans                            &trans  &trans  &trans                  &trans  &trans  &trans                        &trans           &trans                 &trans        &trans             &trans
             >;
         };
